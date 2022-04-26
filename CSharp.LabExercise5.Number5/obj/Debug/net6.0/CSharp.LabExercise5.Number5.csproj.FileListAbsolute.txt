@@ -1,0 +1,15 @@
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\bin\Debug\net6.0\CSharp.LabExercise5.Number5.exe
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\bin\Debug\net6.0\CSharp.LabExercise5.Number5.deps.json
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\bin\Debug\net6.0\CSharp.LabExercise5.Number5.runtimeconfig.json
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\bin\Debug\net6.0\CSharp.LabExercise5.Number5.dll
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\bin\Debug\net6.0\CSharp.LabExercise5.Number5.pdb
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.csproj.AssemblyReference.cache
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.AssemblyInfoInputs.cache
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.AssemblyInfo.cs
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.csproj.CoreCompileInputs.cache
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.dll
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\refint\CSharp.LabExercise5.Number5.dll
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.pdb
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\CSharp.LabExercise5.Number5.genruntimeconfig.cache
+C:\Users\justyne.nam-ay\Documents\backend\CSharp.LabExercise5\CSharp.LabExercise5.Number5\obj\Debug\net6.0\ref\CSharp.LabExercise5.Number5.dll
